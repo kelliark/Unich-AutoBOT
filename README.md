@@ -12,7 +12,7 @@ Unich AutoBot
   - Auto Start Mining
   - Multi Accounts
 
-## Requiremnets
+## Requirements
 
 - Make sure you have Python3.9 or higher installed and pip.
 - Proxy, use private proxy, don't use free one

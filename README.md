@@ -1,5 +1,5 @@
 # Unich BOT
-Unich BOT
+Unich AutoBot
 
 - Register Here : [Unich](https://unich.com/en/airdrop/sign-up?ref=L3VBNL)
 - Use Code : L3VBNL
@@ -49,7 +49,7 @@ Unich BOT
 ## Run
 
 ```bash
-python bot.py #or python3 bot.py
+python bot.py
 ```
 
 ## Notes

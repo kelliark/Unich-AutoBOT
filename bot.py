@@ -8,7 +8,7 @@ from datetime import datetime
 from fake_useragent import FakeUserAgent
 import asyncio, json, random, os, pytz
 
-wib = pytz.timezone('Asia/Jakarta')
+wib = pytz.timezone('Asia/Manila')
 
 class Unich:
     def __init__(self) -> None:

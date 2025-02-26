@@ -17,6 +17,13 @@ Unich AutoBot
 - Make sure you have Python3.9 or higher installed and pip.
 - Proxy, use private proxy, don't use free one
 
+## Proxy Setup
+### Recommended Proxy Providers
+- Residential Proxies
+  * [Nstp](https://app.nstproxy.com/register?i=42Um5k)
+- Proxyscrape
+  * [ProxyScrape](https://proxyscrape.com/)
+
 ## Instalation
 
 1. **Clone The Repositories:**
@@ -33,6 +40,10 @@ Unich AutoBot
    ```
 
 ## Configuration
+
+
+- **How to get Beare Token:** 
+  * Go To Network Tab and Control + R to Reload and then go to the tab in Network Tab called `my-info` and scroll down and then copy the Bearer Token, the thing that starting with eyj....
 
 - **tokens.txt:** You will find the file `tokens.txt` inside the project directory. Make sure `tokens.txt` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash

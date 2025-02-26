@@ -36,7 +36,7 @@ Unich AutoBot
 
 2. **Install Requirements:**
    ```bash
-   pip install -r requirements.txt #or pip3 install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Configuration
@@ -50,7 +50,7 @@ Unich AutoBot
     eyjxxxxx1
     eyjxxxxx2
   ```
-- **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure `prxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+- **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
     http:user:pass@ip:port
     http:user:pass@host:port
